@@ -5,6 +5,6 @@ public class Main {
         System.out.println("Hello world! from Andrei");
         System.out.println("Hello world! from Andrei inverted");
         System.out.println("Hello happy ladybugs!");
-
+        System.out.println("Test");
     }
 }
